@@ -1,7 +1,7 @@
 import { useState } from "react";
-import reactLogo from "./assets/react.svg";
+import reactLogo from "./assets/React.svg";
 import { BackendService } from "@genezio-sdk/genezio-project";
-import "./App.css";
+import "./app.css";
 
 export default function App() {
   const [name, setName] = useState("");
